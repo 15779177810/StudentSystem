@@ -120,7 +120,7 @@ public class Test {
 			 System.out.println("输入错误");
 			 System.out.println("1.查询所有学生信息  2.增加学生信息  3.删除学生信息  4.修改学生信息    5.查询一名学生信息 ");
 			 //输入a？？？？
-			
+			System.out.println("");
 		 }
 		
 		}catch(MyException e){
